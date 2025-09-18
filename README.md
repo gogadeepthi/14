@@ -1,2 +1,24 @@
-# 14
- html program 11
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Mango</li>
+        <li>Orange</li>
+        <li>Apple</li>
+        <li>Pomogranate</li>
+    </ul>
+    <h2>Ordered List</h2>
+    <ol>
+        <li>Wakeup</li>
+        <li>Breakfast</li>
+        <li>Play</li>
+        <li>Study</li>
+    </ol>
+</body>
+</html>
